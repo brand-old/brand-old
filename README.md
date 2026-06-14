@@ -1,16 +1,42 @@
-## Hi there 👋
+## About Me
+
+- 🔭 I’m currently working on medical insurance Consultation.
+- 🌱 I’m currently learning Data Analytics.
+- 💬 Ask me about Particle Physics, Astrophysics, Deep Time, Evolution Theory, Convergent Biology, Biotechnology, Biochemistry and other irrelevant stuff.
+- 📫 How to reach me: (+91)938-049-8982
+- ⚡ Fun fact: Bananas are berries. Strawberries are not.
+
+
+
+## Goals
+
+ - Building impactful data analytics projects
+ - Contribute to open source projects
+ - Expertize in Business and data intelligence.
+
+
+
+## Skills
+
+Data Analytics
+  - Data cleaning & preparation
+  - EDA
+  - Statistical Analysis
+  - Data Visualization & Dashboard Design
+  - Business Intelligence
+
+Tools
+  - Microsoft Excel & Power Query
+  - PowerBI
+  - Tableau
+  - SQL
+  - Python (Pandas, NumPy)
+
+Currently Learning
+  - Advanced SQL
+  - Data Modelling
+  - Generative AI for data analytics
+  - Machine Learning Fundamentals
 
 <!--
 **brand-old/brand-old** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
