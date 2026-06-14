@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on medical insurance Consultation.
 - 🌱 I’m currently learning Data Analytics.
-- 💬 Ask me about Particle Physics, Astrophysics, Deep Time, Evolution Theory, Convergent Biology, Biotechnology, Biochemistry and other irrelevant stuff.
 - 📫 How to reach me: (+91)938-049-8982
-- ⚡ Fun fact: Bananas are berries. Strawberries are not.
+- 💬 Ask me about Particle Physics, Astrophysics, Deep Time, Evolution Theory, Convergent Biology, Biotechnology, Biochemistry and other irrelevant stuff.
+- ⚡ Fun fact: I'm almost ambidextrous.
 
 
 
