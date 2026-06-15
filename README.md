@@ -1,6 +1,6 @@
 ## About Me
 
-- 🔭 I’m currently working on medical insurance Consultation.
+- 🔭 I’m currently working in medical insurance Consultation.
 - 🌱 I’m currently learning Data Analytics.
 - 📫 How to reach me: (+91)938-049-8982
 - 💬 Ask me about Particle Physics, Astrophysics, Deep Time, Evolution Theory, Convergent Biology, Biotechnology, Biochemistry and other irrelevant stuff.
