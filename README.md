@@ -29,6 +29,7 @@ Machine Learning Fundamentals
 
 Advanced SQL
 
+
 Tools
   - Microsoft Excel & Power Query
   - PowerBI
