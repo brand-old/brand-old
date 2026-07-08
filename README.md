@@ -4,7 +4,7 @@
 - 🔭 I am a Mechanical Engineer.
 - 🌱 I’m currently learning Data Analytics.
 - 💬 Ask me about Particle Physics, Astrophysics, Deep Time, Evolution Theory, Convergent Biology, Biotechnology, Biochemistry and other irrelevant stuff.
-- ⚡ Fun fact: I'm almost ambidextrous.
+- ⚡ I never thought codes could run cars.
 
 
 
