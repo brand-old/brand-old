@@ -10,8 +10,8 @@
 
 ## Goals
 
- - Building impactful projects
- - Contribute to open source projects
+ - Build Data Analysis projects
+ - Understand Machine learning principles
  - Expertize in Business and data intelligence.
 
 
@@ -41,3 +41,4 @@ Currently Learning
 <!--
 **brand-old/brand-old** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 📫 How to reach me: (+91)938-049-8982
+goals  - Contribute to open source projects
