@@ -25,16 +25,16 @@ Data Analytics
   - Data Visualization & Dashboard Design
   - Business Intelligence
 
+Machine Learning Fundamentals
+
+Advanced SQL
+
 Tools
   - Microsoft Excel & Power Query
   - PowerBI
   - Tableau
   - SQL
   - Python (Pandas, NumPy)
-
-Machine Learning Fundamentals
-
-Advanced SQL
 
 Currently Learning
   - Data Modelling
