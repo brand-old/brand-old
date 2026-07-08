@@ -32,11 +32,13 @@ Tools
   - SQL
   - Python (Pandas, NumPy)
 
+Machine Learning Fundamentals
+
+Advanced SQL
+
 Currently Learning
-  - Advanced SQL
   - Data Modelling
   - Generative AI for data analytics
-  - Machine Learning Fundamentals
 
 <!--
 **brand-old/brand-old** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
