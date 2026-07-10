@@ -26,8 +26,6 @@ Data Analytics
 
 Machine Learning Fundamentals
 
-Advanced SQL
-
 
 Tools
   - Microsoft Excel & Power Query
@@ -39,6 +37,7 @@ Tools
 Currently Learning
   - Data Modelling
   - Generative AI for data analytics
+  - Advanced SQL
 
 <!--
 **brand-old/brand-old** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
