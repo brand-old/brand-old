@@ -4,7 +4,6 @@
 - 🔭 I am a Mechanical Engineer.
 - 🌱 I’m currently learning Data Analytics.
 - 💬 Ask me about Particle Physics, Astrophysics, Deep Time, Evolution Theory, Convergent Biology, Biotechnology, Biochemistry and other irrelevant stuff.
-- ⚡ I never thought codes could run cars.
 
 
 
@@ -45,3 +44,4 @@ Currently Learning
 **brand-old/brand-old** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 📫 How to reach me: (+91)938-049-8982
 goals  - Contribute to open source projects
+about - ⚡ I never thought codes could run cars.
